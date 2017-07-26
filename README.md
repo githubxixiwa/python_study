@@ -9,8 +9,11 @@
 
 首先呢就跟着上面的教程学习了
 
-1.关于 pip , ipython [ Mac OS X 安装pip , ipython](http://blog.csdn.net/jobschen/article/details/49559023)
+[MAC OSX 正確地同時安裝 PYTHON 2.7 和 PYTHON3](https://stringpiggy.hpd.io/mac-osx-python3-dual-install/#step2)
 
+[ Mac OS X 安装pip , ipython](http://blog.csdn.net/jobschen/article/details/49559023)
+
+[Anaconda安装及使用总结](http://www.jianshu.com/p/2f3be7781451)
 
 ##进阶
 
